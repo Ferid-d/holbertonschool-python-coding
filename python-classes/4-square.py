@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that defines a class Square with size, area, and print functionality."""
+"""Defines a class Square with size, area, and print functionality."""
 
 
 class Square:
