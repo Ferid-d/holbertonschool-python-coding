@@ -1,8 +1,8 @@
-#!/usr/bin/python3
-"""Defines a class Square with size, area, and print functionality."""
-
+"""This module defines a Square class."""
 
 class Square:
+    """Represents a square with size, area calculation, and printing."""
+
     def __init__(self, size=0):
         self.size = size
 
